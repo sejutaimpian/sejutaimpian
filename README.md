@@ -12,4 +12,5 @@ Saya telah menyelesaikan pembelajaran Codeigniter 4 dengan menghasilkan beberapa
 Saat ini saya sedang beralih ke Laravel.
 <hr>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sejutaimpian)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejutaimpian&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
