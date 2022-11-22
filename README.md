@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Eris Sulistina
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Web Framework
-- 💞️ I’m looking to collaborate on Web
-- 📫 How to reach me derissulistina@gmail.com
+### Tentang Saya!
 
-<!---
-sejutaimpian/sejutaimpian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nama Eris Sulistina, Saya fokus di Web Development/Web Framework 🙌🏻
+Saya mahasiswa jurusan IT di Jawa Barat.
+Selain menimba ilmu dari kampus, saya juga rajin melakukan pembelajaran mandiri (otodidak).
+
+Saya telah menyelesaikan pembelajaran Codeigniter 4 dengan menghasilkan beberapa projek. Diantaranya:
+1. [Sifoster](https://github.com/sejutaimpian/sifoster)
+2. [upgrading-to-ci4](https://github.com/sejutaimpian/upgrading-to-ci4)
+3. dll
+
+Saat ini saya sedang beralih ke Laravel.
+<hr>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sejutaimpian&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejutaimpian&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
